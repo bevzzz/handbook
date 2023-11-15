@@ -274,7 +274,7 @@ camden_cheek:
   name: Camden Cheek
   pronouns: he/him
   role: Software Engineer
-  reports_to: search_lead
+  reports_to: code_search_lead
   location: Monument, Colorado, USA 🇺🇸
   github: camdencheek
   email: camden@sourcegraph.com
@@ -405,7 +405,7 @@ vova_kulikov:
   name: Vova Kulikov
   pronouns: he/him
   role: Software Engineer, Frontend
-  reports_to: eng_lead
+  reports_to: code_search_lead
   location: St. Petersburg, Russia 🇷🇺
   github: vovakulikov
   email: vova@sourcegraph.com
@@ -1109,7 +1109,7 @@ andrew_norrish:
 
 felix_kling:
   name: Felix Kling
-  reports_to: eng_lead
+  reports_to: code_search_lead
   role: Software Engineer
   github: fkling
 
@@ -1873,3 +1873,10 @@ chris_smith:
   location: Redmond, WA, USA 🇺🇸
   links: '[LinkedIn](https://www.linkedin.com/in/achrissmith/)'
   description: 'Chris has spent most of his career working in the developer tools space. He wrote a pretty awesome book on F# and once won a large bag of jelly beans at a hackathon. Most of his time is spent trying to keep up with his two boys and catching Pokémon.'
+
+taiyab_raja:
+  name: Taiyab Raja
+  email: taiyab.raja@sourcegraph.com
+  github: taiyab
+  reports_to: code_search_lead
+  role: Product Designer
